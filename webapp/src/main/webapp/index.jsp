@@ -101,8 +101,8 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span> i am <br> browny <br> star <span>.</span>   </h2>
-							<p>ui/ux designer and web developer</p>
+							<h2>Hi <span>,</span> I am <br> Sajiat S<br> star <span>.</span>   </h2>
+							<p>DevOps Engineer</p>
 							<a href="assets/download/browney.txt" download>download resume</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
