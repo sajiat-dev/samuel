@@ -68,7 +68,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">browny</a>
+			                <a class="navbar-brand" href="index.html">Sajiat</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
@@ -101,7 +101,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>Hi <span>,</span> I am <br> Sajiat S<br> star <span>.</span>   </h2>
+							<h2>Hi <span>,</span> I am <br> Sajiat S</span></h2>
 							<p>DevOps Engineer</p>
 							<a href="assets/download/browney.txt" download>download resume</a>
 						</div><!--/.header-text-->
@@ -123,11 +123,8 @@
 						<div class="col-sm-6">
 							<div class="single-about-txt">
 								<h3>
-									I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.
+									I am a Professional DevOps Engineer and developer. 
 								</h3>
-								<p>
-									Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
-								</p>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
@@ -138,13 +135,13 @@
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>email</h3>
-											<p>browny@info.com</p>
+											<p>sajiats3@gmail.com</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>website</h3>
-											<p>www.brownsine.com</p>
+											<p>http://3.106.127.183:8080/ad/</p>
 										</div>
 									</div>
 								</div>
@@ -871,7 +868,7 @@
 							<div class="single-contact-box">
 								<div class="contact-adress">
 									<div class="contact-add-head">
-										<h3>browny star</h3>
+										<h3>Sajiat</h3>
 										<p>uI/uX designer</p>
 									</div>
 									<div class="contact-add-info">
